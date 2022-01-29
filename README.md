@@ -27,7 +27,7 @@ I'm an artificial intelligence student with a background in data analytics who l
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=Excel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Google Analytics-informational?style=flat&logo=Google Analytics&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GoogleAnalytics-informational?style=flat&logo=GoogleAnalytics&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 <!--
