@@ -6,7 +6,7 @@ I'm an artificial intelligence student with a background in data analytics who l
 - 👯 I’m looking to join a company for a AI coop or internship.
 - 📫 Reach out to me on <a href="https://www.linkedin.com/in/eduardomoraes/">LinkedIn</a>, and let's chat! 
 - 💬 You can ask me about anything about analytics in CPG industry, really, I have worked ten years on this industry
-- ⚡ I speak fluently English, Portuguese and Spanish
+- ⚡ I speak fluently English, Portuguese and Spanish, and have lived in 3 different countries
 
 ### 🔧 Technologies & Tools
 
