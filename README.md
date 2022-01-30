@@ -1,6 +1,6 @@
 ### Hi my name is Eduardo 👋
 
-I'm an artificial intelligence student with a background in data analytics who loves neuroscience, science fiction novels, and pretend to play guitar.
+I'm an artificial intelligence student with a background in data analytics who love Data Science, travelling, and like to pretend to play guitar.
 
 - 🌱 I’m currently learning to create full-stack artificial intelligence solutions as a post graduate student at Georgebrown College, Toronto.
 - 👯 I’m looking to join a company for a AI coop or internship.
