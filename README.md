@@ -8,7 +8,7 @@ I'm an artificial intelligence student with a background in data analytics who l
 - 💬 You can ask me about anything about analytics in CPG industry, really, I have worked ten years on this industry
 - ⚡ I speak fluently English, Portuguese and Spanish, and have lived in 3 different countries
 
-### 🔧 Technologies & Tools
+### 🔧 Technologies & Tools that I enjoy working with
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Microsoft&logoColor=white&color=2bbc8a)
