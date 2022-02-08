@@ -31,7 +31,9 @@ I'm an artificial intelligence student with a background in data analytics who l
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=Excel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NielsenAnswers-informational?style=flat&logo=NielsenAnswers&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleAnalytics-informational?style=flat&logo=GoogleAnalytics&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BigData-Hadoop-informational?style=flat&logo=hadoop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Dataiku-informational?style=flat&logo=Dataiku&logoColor=white&color=2bbc8a)
 <!--
 **eduardomoraes/eduardomoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
