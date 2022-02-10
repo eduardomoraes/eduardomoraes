@@ -32,6 +32,8 @@ I'm an artificial intelligence student with a background in data analytics who l
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=Excel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NielsenAnswers-informational?style=flat&logo=NielsenAnswers&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleAnalytics-informational?style=flat&logo=GoogleAnalytics&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Monday-informational?style=flat&logo=monday&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Hadoop-informational?style=flat&logo=hadoop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Hive-informational?style=flat&logo=hive&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Spark-informational?style=flat&logo=spark&logoColor=white&color=2bbc8a)
