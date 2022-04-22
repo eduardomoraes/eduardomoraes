@@ -1,9 +1,9 @@
 ### Hi my name is Eduardo 👋
 
-I'm an artificial intelligence student with a background in data analytics who love Data Science, Machine Learning, travelling, and like to pretend to play guitar.
+I'm an artificial intelligence post graduate student with a background in data analytics who love Data Science, Machine Learning, travelling, and like to pretend to play guitar.
 
 - 🌱 I’m currently learning to create full-stack artificial intelligence solutions as a post graduate student at Georgebrown College, Toronto.
-- 👯 I’m looking to join a company for a AI coop or internship.
+- 👯 I’m looking to join a company for advancing my career in AI, Machine Learning and Data Science.
 - 📫 Reach out to me on <a href="https://www.linkedin.com/in/eduardomoraes/">LinkedIn</a>, and let's chat! 
 - 💬 You can ask me about anything about analytics in CPG industry, really, I have worked ten years on this industry
 - ⚡ I speak fluently English, Portuguese and Spanish, and have lived in 3 different countries
