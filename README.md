@@ -11,9 +11,12 @@ I'm an artificial intelligence post graduate student with a background in data a
 ### 🔧 Technologies & Tools that I enjoy working with
 
 OS
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Microsoft&logoColor=white&color=2bbc8a)
+
 Editor
+
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=VScode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PySpyder-informational?style=flat&logo=PySpyder&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&logoColor=white&color=2bbc8a)
