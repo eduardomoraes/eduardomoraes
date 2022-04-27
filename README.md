@@ -21,7 +21,7 @@ Editor
 ![](https://img.shields.io/badge/Editor-PySpyder-informational?style=flat&logo=PySpyder&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-ApacheZeppellin-informational?style=flat&logo=ApacheZeppellin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Google Colab-informational?style=flat&logo=Google Colab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=2bbc8a)
 
 Programming Languages
 
