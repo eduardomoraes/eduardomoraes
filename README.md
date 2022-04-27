@@ -21,14 +21,26 @@ Editor
 ![](https://img.shields.io/badge/Editor-PySpyder-informational?style=flat&logo=PySpyder&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-ApacheZeppellin-informational?style=flat&logo=ApacheZeppellin&logoColor=white&color=2bbc8a)
+
+Programming Languages
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=VBA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-DAX-informational?style=flat&logo=DAX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+
+Web
+
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
+
+Shell
+
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-Bash&logoColor=white&color=2bbc8a)
+
+
+
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
