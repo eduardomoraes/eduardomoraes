@@ -76,8 +76,8 @@ Data Management
 
 Tools
 
-![](https://img.shields.io/badge/Data Visualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data Visualization-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataVisualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataVisualization-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=Excel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NielsenAnswers-informational?style=flat&logo=NielsenAnswers&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleAnalytics-informational?style=flat&logo=GoogleAnalytics&logoColor=white&color=2bbc8a)
@@ -100,7 +100,7 @@ Cloud Services
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
 
 Dev Ops
-![](https://img.shields.io/badge/Cloud-Azure Dev-Ops-informational?style=flat&logo=azure Dev-Ops&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure Dev-Ops-informational?style=flat&logo=azureDev-Ops&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-CometML-informational?style=flat&logo=CometML&logoColor=white&color=2bbc8a)
 
