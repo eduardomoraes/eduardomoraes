@@ -51,7 +51,7 @@ Frameworks, Libraries and Algorithms
 ![](https://img.shields.io/badge/Algorithms-SSD-informational?style=flat&logo=SSD&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-Resnet-informational?style=flat&logo=Resnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-CNN-informational?style=flat&logo=CNN&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Algorithms-Faster R CNN-informational?style=flat&logo=Faster R CNN&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Algorithms-FasterRCNN-informational?style=flat&logo=FasterRCNN&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-Resnet-informational?style=flat&logo=Resnet&logoColor=white&color=2bbc8a)
 
 
@@ -86,7 +86,7 @@ Project Management
 
 ![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Projects-Monday-informational?style=flat&logo=Monday&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Projects-Azure Dev-Ops-informational?style=flat&logo=Azure Dev-Ops&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Projects-AzureDev-Ops-informational?style=flat&logo=AzureDev-Ops&logoColor=white&color=2bbc8a)
 
 Big Data
 
