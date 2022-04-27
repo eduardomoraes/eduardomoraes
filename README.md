@@ -33,6 +33,15 @@ Programming Languages
 Frameworks
 
 ![](https://img.shields.io/badge/Framework-Sklearn-informational?style=flat&logo=Sklearn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
+
+
+Libraries
+![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-DaskML-informational?style=flat&logo=DaskML&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
 
 
 Web
@@ -44,26 +53,33 @@ Shell
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-Bash&logoColor=white&color=2bbc8a)
 
-
-
-![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=2bbc8a)
+Data Management
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BigData-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BigData-SnowFlake-informational?style=flat&logo=SnowFlake&logoColor=white&color=2bbc8a)
+
+
+![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=2bbc8a)
+
+
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=Excel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NielsenAnswers-informational?style=flat&logo=NielsenAnswers&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Tools-GoogleAnalytics-informational?style=flat&logo=GoogleAnalytics&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Projects-Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Projects-Monday-informational?style=flat&logo=Monday&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/BigData-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/BigData-SnowFlake-informational?style=flat&logo=SnowFlake&logoColor=white&color=2bbc8a)
+
+Big Data
 ![](https://img.shields.io/badge/BigData-Hive-informational?style=flat&logo=hive&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Dataiku-informational?style=flat&logo=Dataiku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Spark-informational?style=flat&logo=spark&logoColor=white&color=2bbc8a)
+
+
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
 <!--
