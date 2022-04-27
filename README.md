@@ -100,7 +100,7 @@ Cloud Services
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
 
 Dev Ops
-![](https://img.shields.io/badge/Cloud-Azure Dev-Ops-informational?style=flat&logo=azureDev-Ops&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AzureDev-Ops-informational?style=flat&logo=azureDev-Ops&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-CometML-informational?style=flat&logo=CometML&logoColor=white&color=2bbc8a)
 
