@@ -30,6 +30,11 @@ Programming Languages
 ![](https://img.shields.io/badge/Code-DAX-informational?style=flat&logo=DAX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
+Frameworks
+
+![](https://img.shields.io/badge/Framework-Sklearn-informational?style=flat&logo=Sklearn&logoColor=white&color=2bbc8a)
+
+
 Web
 
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
