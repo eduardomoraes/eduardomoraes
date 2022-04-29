@@ -46,7 +46,6 @@ Frameworks, Libraries and Algorithms
 ![](https://img.shields.io/badge/Libraries-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-Spicy-informational?style=flat&logo=Spicy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-Opencv-informational?style=flat&logo=Opencv&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Algorithms-Yolo-informational?style=flat&logo=Yolo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-SSD-informational?style=flat&logo=SSD&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-Resnet-informational?style=flat&logo=Resnet&logoColor=white&color=2bbc8a)
