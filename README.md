@@ -43,6 +43,10 @@ Frameworks, Libraries and Algorithms
 ![](https://img.shields.io/badge/Libraries-DaskML-informational?style=flat&logo=DaskML&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Algorithms-Yolo-informational?style=flat&logo=Yolo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-SSD-informational?style=flat&logo=SSD&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-Resnet-informational?style=flat&logo=Resnet&logoColor=white&color=2bbc8a)
@@ -54,6 +58,8 @@ Data Management, Cloud Services and Big Data
 
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat&logo=SQLServer&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SSIS-informational?style=flat&logo=SSIS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BigData-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=2bbc8a)
