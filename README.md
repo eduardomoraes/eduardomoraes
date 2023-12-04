@@ -26,7 +26,7 @@ OS, Editor and Programming Languages
 ![](https://img.shields.io/badge/Code-DAX-informational?style=flat&logo=DAX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Databricks-PowerShell-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databricks-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-Bash&logoColor=white&color=2bbc8a)
 
 Frameworks, Libraries and Algorithms
