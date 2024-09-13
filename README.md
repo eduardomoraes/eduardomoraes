@@ -5,10 +5,10 @@ I'm an artificial intelligence post graduated from GeorgeBrown College in Toront
 - 🌱 I’m a graduate in full-stack artificial intelligence solutions as a post graduate student at Georgebrown College, Toronto.
 - ⚡ I've been working as a Sr Manager for Data Science & BI for Arterra Wines Canada.
 - ⚡I worked for Scotiabank Canada as a data scientist, helping them to apply AI techniques to mitigate customer claims globally.
-- 👯 I’m looking to join a company for advancing my career in AI, Machine Learning and Data Science.
+- 👯 I’m looking to advancing my career in AI, Machine Learning and Data Science.
 - 📫 Reach out to me on <a href="https://www.linkedin.com/in/eduardomoraes/">LinkedIn</a>, and let's chat! 
 - 💬 You can ask me about anything about analytics in CPG industry, really, I have worked ten years on this industry
-- ⚡ I speak fluently English, Portuguese and Spanish, andhave lived in 3 different countries.
+- ⚡ I speak fluently English, Portuguese and Spanish, and have lived in 3 different countries.
 
 ### 🔧 Technologies & Tools that I enjoy working with
 
