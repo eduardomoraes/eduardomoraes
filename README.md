@@ -2,9 +2,9 @@
 I'm a Senior Manager of Data Science & BI at Arterra Wines Canada, with 10+ years in analytics and a postgrad in Artificial Intelligence from George Brown College.
 I specialize in transforming data into business value — leading large-scale forecasting, building enterprise BI platforms, and driving AI adoption across organizations.
 
-💼 Former Data Scientist at Scotiabank
-🧠 Focus: AI/ML, CPG Analytics, Data Product Strategy
-🌍 Fluent in English, Portuguese, and Spanish | Lived/worked in 🇧🇷 🇨🇱 🇨🇦
+💼 Former Data Scientist at Scotiabank.
+🧠 Focus: AI/ML, CPG Analytics, Data Product Strategy.
+🌍 Fluent in English, Portuguese, and Spanish | Lived/worked in 🇧🇷 🇨🇱 🇨🇦.
 🎸 I also pretend to play guitar (badly, but with passion).
 
 ### 🚀 What I Do
@@ -17,6 +17,8 @@ I specialize in transforming data into business value — leading large-scale fo
 - 📈 **Sales Forecasting Engine** – Helped a new business unit break even in 3 years with demand models
 - 🧠 **Claims Mitigation Model @ Scotiabank** – Built AI tools to reduce global customer disputes
 - 🛠️ **In-House BI Platform** – Replaced siloed Excel workflows with a unified, governed Power BI ecosystem
+
+📫 Let’s connect on LinkedIn if you're working on data transformation, looking for AI strategy leadership, or just want to geek out about analytics and wine.
 
 
 ### 🔧 Technologies & Tools that I enjoy working with
