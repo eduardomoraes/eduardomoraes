@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Eduardo
+# 👋 Hi, I'm Eduardo
 I'm a Senior Manager of Data Science & BI at Arterra Wines Canada, with 10+ years in analytics and a postgrad in Artificial Intelligence from George Brown College.
 I specialize in transforming data into business value — leading large-scale forecasting, building enterprise BI platforms, and driving AI adoption across organizations.
 
@@ -20,7 +20,7 @@ I specialize in transforming data into business value — leading large-scale fo
 🔄 Databricks Migration & Optimization – Led the move from Azure Synapse to Databricks; designed Spark-based pipelines handling billions of records with improved performance and cost efficiency.
 🤖 E-commerce Recommendation System – Built and deployed a collaborative filtering model on Databricks to drive product discovery and lift conversion rates.
 
-# 📫 Let’s connect on LinkedIn if you're working on data transformation, looking for AI strategy leadership, or just want to geek out about analytics and AI.
+## 📫 Let’s connect on LinkedIn if you're working on data transformation, looking for AI strategy leadership, or just want to geek out about analytics and AI.
 
 
 ### 🔧 Technologies & Tools that I enjoy working with
