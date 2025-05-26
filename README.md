@@ -1,14 +1,23 @@
-### Hi my name is Eduardo 👋
+### 👋 Hi, I'm Eduardo
+I'm a Senior Manager of Data Science & BI at Arterra Wines Canada, with 10+ years in analytics and a postgrad in Artificial Intelligence from George Brown College.
+I specialize in transforming data into business value — leading large-scale forecasting, building enterprise BI platforms, and driving AI adoption across organizations.
 
-I'm an artificial intelligence post graduated from GeorgeBrown College in Toronto/CA with a background in data analytics who love Data Science, Machine Learning, travelling, and like to pretend to play guitar.
+💼 Former Data Scientist at Scotiabank
+🧠 Focus: AI/ML, CPG Analytics, Data Product Strategy
+🌍 Fluent in English, Portuguese, and Spanish | Lived/worked in 🇧🇷 🇨🇱 🇨🇦
+🎸 I also pretend to play guitar (badly, but with passion).
 
-- 🌱 I’m a graduate in full-stack artificial intelligence solutions as a post graduate student at Georgebrown College, Toronto.
-- ⚡ I've been working as a Sr Manager for Data Science & BI for Arterra Wines Canada.
-- ⚡I worked for Scotiabank Canada as a data scientist, helping them to apply AI techniques to mitigate customer claims globally.
-- 👯 I’m looking to advancing my career in AI, Machine Learning and Data Science.
-- 📫 Reach out to me on <a href="https://www.linkedin.com/in/eduardomoraes/">LinkedIn</a>, and let's chat! 
-- 💬 You can ask me about anything about analytics in CPG industry, really, I have worked ten years on this industry
-- ⚡ I speak fluently English, Portuguese and Spanish, and have lived in 3 different countries.
+### 🚀 What I Do
+- Build and lead Data Science & BI teams delivering strategic insights
+- Translate business needs into scalable data platforms and models
+- Drive digital transformation by turning dashboards into decision tools
+- Bridge the gap between IT and business with storytelling and AI
+
+### 📊 Selected Projects
+- 📈 **Sales Forecasting Engine** – Helped a new business unit break even in 3 years with demand models
+- 🧠 **Claims Mitigation Model @ Scotiabank** – Built AI tools to reduce global customer disputes
+- 🛠️ **In-House BI Platform** – Replaced siloed Excel workflows with a unified, governed Power BI ecosystem
+
 
 ### 🔧 Technologies & Tools that I enjoy working with
 
