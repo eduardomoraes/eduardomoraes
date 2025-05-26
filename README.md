@@ -15,9 +15,13 @@ I specialize in transforming data into business value — leading large-scale fo
 
 ### 📊 Selected Projects
 📈 Sales Forecasting Engine – Created demand models that helped a new business unit break even in under 3 years.
+
 🧠 Claims Mitigation Model @ Scotiabank – Developed AI tools to reduce global customer disputes and improve SLA compliance.
+
 🛠️ In-House BI Platform – Replaced siloed Excel workflows with a governed Power BI ecosystem, enabling self-service analytics.
+
 🔄 Databricks Migration & Optimization – Led the move from Azure Synapse to Databricks; designed Spark-based pipelines handling billions of records with improved performance and cost efficiency.
+
 🤖 E-commerce Recommendation System – Built and deployed a collaborative filtering model on Databricks to drive product discovery and lift conversion rates.
 
 ## 📫 Let’s connect on LinkedIn if you're working on data transformation, looking for AI strategy leadership, or just want to geek out about analytics and AI.
