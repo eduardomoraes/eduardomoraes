@@ -11,7 +11,7 @@ I specialize in transforming data into business value — leading large-scale fo
 - Build and lead Data Science & BI teams delivering strategic insights
 - Translate business needs into scalable data platforms and models
 - Drive digital transformation by turning dashboards into decision tools
-- Bridge the gap between IT and business with storytelling and AI
+- Bridge the gap between IT and business with storytelling and AI.
 
 ### 📊 Selected Projects
 📈 Sales Forecasting Engine – Created demand models that helped a new business unit break even in under 3 years.
