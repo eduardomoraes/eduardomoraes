@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Eduardo
-I'm a Senior Manager of Data Science & BI at Arterra Wines Canada, with 10+ years in analytics and a postgrad in Artificial Intelligence from George Brown College.
+I'm a Senior Manager of Data Science & BI, with 10+ years in analytics and a postgrad in Artificial Intelligence from George Brown College.
 I specialize in transforming data into business value — leading large-scale forecasting, building enterprise BI platforms, and driving AI adoption across organizations.
 
 💼 Former Data Scientist at Scotiabank.
