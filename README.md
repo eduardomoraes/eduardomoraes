@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Eduardo
-I'm a Senior Manager of Data Science & BI, with 10+ years in analytics and a postgrad in Artificial Intelligence from George Brown College.
-I specialize in transforming data into business value — leading large-scale forecasting, building enterprise BI platforms, and driving AI adoption across organizations.
+Seasoned data leader with a sharp edge for turning analytics, AI, and BI into serious business value, leading high-impact global teams to steer multimillion-dollar data initiatives, and deliver cutting-edge AI-powered solutions that don’t just check boxes, but change outcomes. From machine learning models that predict what’s next to dashboards executives use, brings strategy and execution together to drive real transformation and innovation.
 
-💼 Former Data Scientist at Scotiabank.
+💼 Former Sr manager Data Science & BI at Arterra, Data Scientist at Scotiabank both in Canada, and data science roles at South America
 🧠 Focus: AI/ML, CPG Analytics, Data Product Strategy.
 🌍 Fluent in English, Portuguese, and Spanish | Lived/worked in 🇧🇷 🇨🇱 🇨🇦.
 🎸 I also pretend to play guitar (badly, but with passion).
