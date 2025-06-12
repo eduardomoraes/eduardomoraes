@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Eduardo
-Seasoned data leader with a sharp edge for turning analytics, AI, and BI into serious business value, leading high-impact global teams to steer multimillion-dollar data initiatives, and deliver cutting-edge AI-powered solutions that don’t just check boxes, but change outcomes. From machine learning models that predict what’s next to dashboards executives use, brings strategy and execution together to drive real transformation and innovation.
+Data leader with a sharp edge for turning analytics, AI, and BI into serious business value, leading high-impact global teams to steer multimillion-dollar data initiatives, and deliver cutting-edge AI-powered solutions that don’t just check boxes, but change outcomes. From machine learning models that predict what’s next to dashboards executives use, brings strategy and execution together to drive real transformation and innovation.
 
 💼 Former Sr manager Data Science & BI at Arterra, Data Scientist at Scotiabank both in Canada, and worked in many data science and analytics roles in South America
 🧠 Focus: AI/ML, GenAI, llmS, High-Performance Team Leadership & Mentorship, Strategic Data-Driven Decision Making, Data Science & Machine Learning,  Cross-Functional Stakeholder Engagement, Budget & Resource Management, CPG Analytics, Data Product Strategy.
