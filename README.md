@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Eduardo
 Data leader with a sharp edge for turning analytics, AI, and BI into serious business value, leading high-impact global teams to steer multimillion-dollar data initiatives, and deliver cutting-edge AI-powered solutions that don’t just check boxes, but change outcomes. From machine learning models that predict what’s next to dashboards executives use, brings strategy and execution together to drive real transformation and innovation.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eduardomoraes" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/eduardomoraes?trk=profile-badge">Eduardo Bastos de Moraes</a></div>
+              
+
+
 💼 Former Sr manager Data Science & BI at Arterra, Data Scientist at Scotiabank both in Canada, and worked in many data science and analytics roles in South America
 🧠 Focus: AI/ML, GenAI, llmS, High-Performance Team Leadership & Mentorship, Strategic Data-Driven Decision Making, Data Science & Machine Learning,  Cross-Functional Stakeholder Engagement, Budget & Resource Management, CPG Analytics, Data Product Strategy.
 🌍 Fluent in English, Portuguese, and Spanish | Lived/worked in 🇧🇷 🇨🇱 🇨🇦.
