@@ -73,6 +73,7 @@ Frameworks, Libraries and Algorithms
 ![](https://img.shields.io/badge/Algorithms-CNN-informational?style=flat&logo=CNN&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-FasterRCNN-informational?style=flat&logo=FasterRCNN&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Algorithms-Tensorflowlite-informational?style=flat&logo=Tensorflowlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Algorithms-LLMs-informational?style=flat&logo=LLMs&logoColor=white&color=2bbc8a)
 
 Data Management, Cloud Services and Big Data
 
