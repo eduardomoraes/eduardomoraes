@@ -11,7 +11,7 @@ Data leader with a sharp edge for turning analytics, AI, and BI into serious bus
 🎸 I also pretend to play guitar (badly, but with passion).
 
 ### 🚀 What I Do
-- Build and lead Data Science & BI teams delivering strategic insights
+- Build and lead AI, Data Science & BI teams delivering strategic insights
 - Translate business needs into scalable data platforms and models
 - Drive digital transformation by turning dashboards into decision tools.
 - Bridge the gap between IT and business with storytelling and AI.
