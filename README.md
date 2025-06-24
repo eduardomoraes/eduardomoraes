@@ -3,8 +3,11 @@ Data leader with a sharp edge for turning analytics, AI, and BI into serious bus
 
 
 💼 Former Sr manager Data Science & BI at Arterra, Data Scientist at Scotiabank both in Canada, and worked in many data science and analytics roles in South America
+
 🧠 Focus: AI/ML, GenAI, llmS, High-Performance Team Leadership & Mentorship, Strategic Data-Driven Decision Making, Data Science & Machine Learning,  Cross-Functional Stakeholder Engagement, Budget & Resource Management, CPG Analytics, Data Product Strategy.
+
 🌍 Fluent in English, Portuguese, and Spanish | Lived/worked in 🇧🇷 🇨🇱 🇨🇦.
+
 🎸 I also pretend to play guitar (badly, but with passion).
 
 ### 🚀 What I Do
